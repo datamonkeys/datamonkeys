@@ -37,7 +37,7 @@ What we build for ourselves between client projects. The same hands build your p
 | [AstroMCP](https://github.com/datamonkeys/AstroMCP) | MCP server with read-only access to public astronomy archives (TNS, SIMBAD, Gaia, ZTF, Rubin). |
 | [CacaSN](https://github.com/datamonkeys/CacaSN) | Supernova hunter for the public ZTF alert stream, with Transient Name Server check. Credited with 20+ TNS discoveries. |
 | [CacaZoo](https://github.com/datamonkeys/CacaZoo) | Automatic triage for Zooniverse projects: brown dwarfs, active asteroids, transients. |
-| [InstantTranslator](https://github.com/datamonkeys/InstantTranslator) | macOS menu bar app: select text, press ⌥⇧T, it is translated in place with Claude. |
+| [TraduzaJa](https://github.com/datamonkeys/TraduzaJa) | macOS menu bar translator: select text, press ⌃⇧T, it is replaced in place. Runs on Claude Code with your login, no API key. Grammar, formal, casual, explain, and flashcard review of your mistakes. |
 | [dm-webhooks](https://github.com/datamonkeys/dm-webhooks) | Signed WooCommerce order events to any webhook, with retries and delivery log. |
 
 ## Stack we love
